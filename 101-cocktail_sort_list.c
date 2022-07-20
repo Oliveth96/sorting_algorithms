@@ -1,5 +1,4 @@
 #include "sort.h"
-#include <stdio.h>
 /**
  *swap_node - swap a node for his previous one
  *@node: node
